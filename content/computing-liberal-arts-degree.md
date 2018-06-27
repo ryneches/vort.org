@@ -4,7 +4,7 @@ Category: general
 Slug: computing-liberal-arts-degree
 Author: Russell Neches
 Tags: science, education
-Summary: 
+Summary: This is my curriculum for a liberal arts degree in technology and computing. Someone with this degree would be prepared to begin a masters degree in an engineering or technical field, but it is not intended to provide any sort of "workplace" training (although it doesn't discourage it). It would also serve as a strong base from which to purse a Ph.D. in a wide variety of topics, and would better prepare students to operate as independent researchers. In that sense, it's a liberal arts degree, not a bachelors of science.
 
 
 I never really fit into any of the various educational programs I've
