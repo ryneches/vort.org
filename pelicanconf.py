@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Russell Neches'
-SITENAME = u'Refracting the light of evolution'
+SITENAME = u'Tortoise Rave'
 SITEURL = 'https://vort.org'
 
 PATH = 'content'
@@ -57,7 +57,7 @@ EXTRA_PATH_METADATA = {
     'assets/js/custom.js': {'path': 'static/js/custom.js'}
 }
 
-DISQUS_SITENAME = 'vort.org'
+DISQUS_SITENAME = 'vort-org'
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 

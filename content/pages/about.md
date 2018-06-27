@@ -37,3 +37,23 @@ Building things and studying the universe is awesome. Everyone should be allowed
 * **Stability of highly shifted equilibria in a large aspect ratio low-field tokamak.** Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and Russell Y Neches. _Physics of Plasmas_, 2007
 * **High-resolution magnetohydrodynamic equilibrium code for unity beta plasmas.** Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and Russell Y Neches.  _Journal of Computational Physics_, 2006
 * **Stability of highly shifted equilibria in a large-aspect-ratio tokamak.** Pierre-Alexandre Gourdain, Steven C Cowley, Jean-Noel Leboeuf, and Russell Y Neches. _Physical review letters_, 2006
+
+## Code of Conduct for Vort.org
+
+Vort.org is where I share things that I think are interesting or important. I have comments enabled because I want people to participate. However, I'm not interested in hosting a free-for-all.
+
+* I am committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
+* Please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
+* Please be kind and courteous. There's no need to be mean or rude.
+* Respect that people have differences of opinion. Every theory starts as an untested hypothesis. Every design or implementation choice carries a trade-off and numerous costs. There may be a right answer, but it isn't enough to be right. It also matters how we get there.
+* Generally speaking, I try my best to document and disclose my methods, data and reasoning and to package them in such a way that you can check them yourself. Critiques that follow suit are more valuable than drive-by complaints.
+* You will be excluded from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
+* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact me immediately. Whether you're a regular contributor or a newcomer, I care about making this community a safe place for you.
+* If the problem is _my_ behavior, then my Ph.D. advisor Jonathan Eisen would want to hear about it. He takes these things seriously, and I trust him to hold me accountable.
+* Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
+ 
+This is my personal website, and I am ultimately responsible for enforcing these rules. This leads to one final meta-rule :
+
+* Don't use the comments to raise issues about how I am enforcing the code of conduct regarding comments. Please direct that feedback to me privately.
+
+(Adapted from the [Rust code of conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md).)
