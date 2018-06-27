@@ -29,7 +29,9 @@ MARKUP = ('md', 'ipynb')
 
 # plugins
 PLUGIN_PATHS = [ './plugins' ]
-PLUGINS = [ 'render_math', 'ipynb.markup', 'i18n_subsites' ]
+PLUGINS = [ 'render_math',
+            'ipynb.markup',
+            'i18n_subsites' ]
 
 # themes
 THEME = './themes/pelican-bootstrap3'

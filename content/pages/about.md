@@ -19,9 +19,14 @@ Building things and studying the universe is awesome. Everyone should be allowed
 * Ph.D. in Microbiology from UC Davis with [Jonathan Eisen](https://phylogenomics.me) in 2017
 * B.S. in Physics from Northeastern University in 2004
 
+## Talks and stuff
+
+* **BAHFest West**, 2016 : [_The Global Structure of Biodiversity in Ludic Ecosystems_](https://www.youtube.com/watch?v=iFu3WJDMeDs) (my dissertation as an elaborate joke)
+
+
 ## Publications
 
-* **SuchTree : High performace phylogenetic trees.** Russell Y Neches and Camille Scott. _Journal of Open Source Software_, 2018
+* **SuchTree : Fast, thread-safe computations with phylogenetic trees** Russell Y Neches and Camille Scott. _Journal of Open Source Software_, 2018
 * **OpenCTD: An oceanographic instrument for measuring conductivity, temperature, and depth.** Andrew Thaler, Ian Black, Russell Y Neches, and S. Kersey Sturdivant. _HardwareX_, 2018
 * **A microbial survey of the International Space Station (ISS).** Jenna M Lang, David A Coil, Russell Y Neches, Wendy E Brown, Darlene Cavalier, Mark Severance, Jarrad Hampton-Marcell, Jack A Gilbert, and Jonathan A Eisen. _PeerJ_, 2017
 * **khmer release v2.1: software for biological sequence analysis.** Daniel Standage, Ali yari, Lisa J. Cohen, Michael R. Crusoe, Tim Head, Luiz Irber, Shannon EK Joslin, N. B. Kingsley, Kevin D. Murray, Russell Neches, Camille Scott, Ryan Shean, Sascha Steinbiss, Cait Sydney, and C. Titus Brown. _The Journal of Open Source Software_, 2017
