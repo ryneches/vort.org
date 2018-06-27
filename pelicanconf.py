@@ -7,7 +7,7 @@ SITENAME = u'Refracting the light of evolution'
 SITEURL = 'https://vort.org'
 
 PATH = 'content'
-STATIC_PATHS = [ 'figures' ]
+STATIC_PATHS = [ 'assets' ]
 IGNORE_FILES = ['.ipynb_checkpoints']
 
 TIMEZONE = 'America/Los_Angeles'
@@ -22,38 +22,30 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # markup
 MARKUP = ('md', 'ipynb')
 
 # plugins
-PLUGIN_PATHS = [ '/home/russell/pkg/pelican-plugins',
-                 './plugins' ]
+PLUGIN_PATHS = [ './plugins' ]
 PLUGINS = [ 'render_math', 'ipynb.markup', 'i18n_subsites' ]
 
 # themes
-THEME = '/home/russell/pkg/pelican-themes/pelican-bootstrap3'
+THEME = './themes/pelican-bootstrap3'
 
 # theme settings
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 SHOW_ARTICLE_AUTHOR = True
 SHOW_DATE_MODIFIED = True
 MENUITEMS = [ 'boop' ]
-
 PYGMENTS_STYLE = 'default'
-
 BOOTSTRAP_THEME = 'lumen'
-
 STATIC_PATHS = [ 'assets' ]
 
-#CUSTOM_CSS = 'static/css/custom.css'
+CUSTOM_CSS = 'static/css/custom.css'
 CUSTOM_JS = 'static/js/custom.js'
 
 FAVICON = 'assets/favicon.png'
