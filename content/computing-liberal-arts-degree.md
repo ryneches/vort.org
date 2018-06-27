@@ -121,22 +121,22 @@ that is totally missing from extant engineering and science curricula.
 
 ### Freshman Year : Origins
 
-**History 1, *Origins of Computing*** : A review of counting systems
+**History 1, _Origins of Computing_** : A review of counting systems
 from different cultures, how "everyday" mathematics was actually carried
 out by ordinary people in ancient Greece, Rome and China. A review of
 early record keeping and writing technologies from Cuneiform to punch
 cards.
 
-**Literature 1, *Origins of the Written Word*** : A review of the
+**Literature 1, _Origins of the Written Word_** : A review of the
 historical and linguistic development of early writing systems and
 technologies from each continent.
 
-**Theory 1, *Foundations of Logic and Philosophy*** : Deductive and
+**Theory 1, _Foundations of Logic and Philosophy_** : Deductive and
 inductive reasoning in mathematics and rhetoric, with applications to
 geometry, number theory and argument.
 
-**Practicum 1, *Mathematics, Writing Systems and Technologies of the
-Ancient World*** : Students will learn and perform the basics of many of
+**Practicum 1, _Mathematics, Writing Systems and Technologies of the
+Ancient World_** : Students will learn and perform the basics of many of
 the key technologies of the ancient world :
 
 -   Stone toolmaking
@@ -157,27 +157,27 @@ ancient Chinese coinage.
 
 ### Sophomore Year : Empiricism
 
-**History 2, *Birth of Computing*** : The invention, use and theory of
+**History 2, _Birth of Computing_** : The invention, use and theory of
 the Jacquard loom. Charles Babbage and the first mechanical computers.
 Ada Lovelace and the concept of stored programs. Use of early mechanical
 computing in industry, navigation, civil society and warfare. Galileo,
 Newton and Darwin and the birth of Empiricism.
 
-**Literature 2, *The Spread of the Written Word*** : The origin of
+**Literature 2, _The Spread of the Written Word_** : The origin of
 modern writing systems, scripts, materials and technologies. The scroll,
 the codex and the library; the printing press and the Gutenberg Bible;
 movable type, the Enlightenment and the American and French revolutions;
 the cryptographic systems of the Napoleonic Wars; the development of
 scientific reasoning in the Enlightenment and before.
 
-**Theory 2, *Foundations of Algebraic Reasoning and Empiricism*** : Set
+**Theory 2, _Foundations of Algebraic Reasoning and Empiricism_** : Set
 theory and the synthesis of algebraic systems, with applications to
 algebra, calculus and physics. Physics will emphasize thermodynamics,
 and treat kinetics and mechanics in the context of heat engines.
 Introduction to empirical reasoning and with emphasis on the design of
 controlled experiments.
 
-**Practicum 2, *The Technologies of the Early Modern Age*** : Students
+**Practicum 2, _The Technologies of the Early Modern Age_** : Students
 will construct and and operate the technologies of the early modern age
 :
 
@@ -197,7 +197,7 @@ ledgers.
 
 ### Junior Year : Science & Engineering
 
-**History 3, *The Science of the Three World Wars*** : The impact of
+**History 3, _The Science of the Three World Wars_** : The impact of
 steam power on naval and land battles of World War I; the birth of
 aviation; The Manhattan Project; the cracking of Enigma and Purple; the
 first modern computers and their uses; the computing of the Apollo
@@ -206,7 +206,7 @@ industry; the invention of transistor and the integrated circuit; the
 Age of Moore's Law; the United States v. Microsoft Corporation; Linux
 and the Free Software movement.
 
-**Literature 3, *Science Fiction and Fact*** : A review of the science
+**Literature 3, _Science Fiction and Fact_** : A review of the science
 fiction of the 19th, 20th and 21st centuries; case studies on the works
 of Jules Verne, Issac Asimov and William Gibson. A review of popular
 science literature and science journalism; Thomas Huxley, Issac Asimov,
@@ -215,12 +215,12 @@ Newton vs. Leibniz, Einstein's 1905 papers, Watson & Crick and Roseland
 Franklin; modern controversies in the literature. Seminars on research
 methods and archival practices.
 
-**Theory 3, *The Language of Computing*** : The Turing and von Neumann
+**Theory 3, _The Language of Computing_** : The Turing and von Neumann
 concepts; the principles of computer languages; algorithms and data
 structures; numerical methods in mathematics and physics; statistics,
 statistical mechanics and quantum mechanics.
 
-**Practicum 3, *Modern Computing Technologies*** : Students will
+**Practicum 3, _Modern Computing Technologies_** : Students will
 construct and operate a selection of key contemporary technologies, with
 an emphasis on computing :
 
@@ -245,18 +245,18 @@ software solutions to interact with them.
 
 ### Senior Year : Here & Now
 
-**History 4, *Contemporary Issues in Science, Technology and Society***
+**History 4, _Contemporary Issues in Science, Technology and Society_**
 : Climate change; poverty and development economics; alternative
 pathways for economic development; medicine and disease; renewable
 energy.
 
-**Literature 4, *Communicating in Writing, Speech and Art*** : Practical
+**Literature 4, _Communicating in Writing, Speech and Art_** : Practical
 instruction on rhetoric, writing style and visual design.
 
-**Theory 4, *Topics in Science and Engineering*** : Focused seminars on
+**Theory 4, _Topics in Science and Engineering_** : Focused seminars on
 technical topics to support Practicum 4.
 
-**Practicum 4, *Capstone Project*** : Students will work individually or
+**Practicum 4, _Capstone Project_** : Students will work individually or
 in small teams with faculty mentors on projects of their own design.
 
 The university will endeavor to minimize direct administrative contact
