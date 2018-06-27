@@ -1,0 +1,57 @@
+/* Pretty Pandas Dataframes */ 
+.dataframe * { box-sizing: border-box; }
+.dataframe table { 
+    display: table;
+    background-color: transparent;
+    border-collapse: collapse;
+    color: black;
+    font-size: 12px;
+    table-layout: fixed;
+    border-width: 0px !important;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-spacing: 0px; }
+.dataframe thead {
+    vertical-align: bottom;
+    border-bottom: 1px solid black;
+}
+.dataframe thead th, thead tr {
+    text-align: right;
+    vertical-align: middle;
+    line-height: normal;
+    white-space: normal;
+    max-width: none;
+    padding: 0.5em;
+    border-width: 0px;
+    border-style: none;
+    border-color: initial;
+    border-image: initial; }
+.dataframe tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit; }
+.dataframe tbody tr:nth-child(2n+1) {
+    background: rgb(245, 245, 245); }
+.dataframe tr, .dataframe th, .dataframe td {
+    text-align: right;
+    vertical-align: middle;
+    line-height: normal;
+    white-space: normal;
+    max-width: none;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+
+/* Format summary rows */
+.dataframe-summary-row tr:last-child,
+.dataframe-summary-col td:last-child{
+    background: #eee;
+    font-weight: 500;
+}
