@@ -23,7 +23,7 @@ Building things and studying the universe is awesome. Everyone should be allowed
 ## Talks and stuff
 
 * **BAHFest West**, 2016 : [_The Global Structure of Biodiversity in Ludic Ecosystems_](https://www.youtube.com/watch?v=iFu3WJDMeDs) (my dissertation as an elaborate joke)
-
+* **Turning Points, _Nature_ Careers**, 2013 : [_Turning point: Russell Neches_](https://www.nature.com/nature/journal/v502/n7469/full/nj7469-131a.html) by [Virginia Gewin](https://twitter.com/VirginiaGewin)
 
 ## Publications
 
