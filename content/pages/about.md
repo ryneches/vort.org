@@ -16,6 +16,7 @@ Building things and studying the universe is awesome. Everyone should be allowed
 
 ## Key facts
 
+* Postdoc at the Joint Genome Institute with [Nikos Kyrpides](https://en.wikipedia.org/wiki/Nikos_Kyrpides)
 * Ph.D. in Microbiology from UC Davis with [Jonathan Eisen](https://phylogenomics.me) in 2017
 * B.S. in Physics from Northeastern University in 2004
 
