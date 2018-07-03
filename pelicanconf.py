@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Russell Neches'
-SITENAME = u'Tortoise Rave'
+SITENAME = u'Tortoise Dance Party'
 SITEURL = 'https://vort.org'
 
 PATH = 'content'
