@@ -4,7 +4,10 @@ Category: general
 Slug: covid-19-lockdown-day-1
 Author: Russell Neches
 Tags: science, life, covid19
-Summary: 
+Summary: I'm going to try journaling through the COVID-19 lockdown here in the
+Bay Area. I have no idea if it will be interesting or important, but it seems
+like it might be good to have a record. If nothing else, it is something to do
+while Ashanti and I are trapped in our apartment here in Oakland.
 
 Ashanti's company required all employees to work from home yesterday (a new
 experience for her). I work at Lawrence Berkeley National Laboratory, which
