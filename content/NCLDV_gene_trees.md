@@ -1,0 +1,9 @@
+Title: A second look at the NCLDV core genome
+Slug: NCLDV-core-genome
+Date: 2022-6-25
+Category: science
+Tags: science, graphs, trees, viruses, NCLDVs, giant viruses, genomes
+Author: Russell Neches
+Summary: A re-analysis of the proposed core genes of the NCLDV lineage of viruses
+
+{% notebook NCLDV-core-genes.ipynb %}
