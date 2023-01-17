@@ -26,9 +26,18 @@ PROJECTS = [{
    {'name'        : '木槌 : kizuchi',
     'url'         : 'https://github.com/ryneches/kizuchi',
     'description' : 'A snakemake workflow for building gene trees from HMM profiles.'},
+   {'name'        : '2023 : One photo a day',
+    'url'         : 'https://www.flickr.com/photos/rneches/albums/72177720305229611',
+    'description' : 'I\'m challenging myself to compose, select and post one photograph each day of 2023.'},
+   {'name'        : 'Dilution Plates',
+    'url'         : 'https://github.com/ryneches/DilutionPlates',
+    'description' : 'A high-throughput liquid handling solution using single-use 3D printed parts in lieu of a liquid handling robot.'},
+   {'name'        : 'Mini workbench',
+    'url'         : 'pages/mini-workbench.html',
+    'description' : 'A carpentry workbench for use without a dedicated workshop space.'},
    {'name'        : 'dissertation',
     'url'         : 'https://ryneches.github.io/dissertation/#',
-    'description' : 'A graph-based index of Ph.D. dissertation.'}]
+    'description' : 'A graph-based index of my Ph.D. dissertation.'}]
 
 
 # Feed generation is usually not desired when developing

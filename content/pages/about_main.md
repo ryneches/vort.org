@@ -21,3 +21,13 @@ your pick.
 I am a JSPS fellow at [Kyoto University](https://www.kyoto-u.ac.jp/) [Institue
 of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) in the [Ogata
 Laboratory](https://cls.kuicr.kyoto-u.ac.jp/en/).
+
+### Other places you can find me
+
+🪴 Blog : [Vort.org](https://vort.org)</br>
+🦣 Mastodon : <a rel="me" href="https://ecoevo.social/@ryneches">@ryneches@ecoevo.social</a></br>
+📜 Scholar : [ryneches](https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en)
+✒️  ORCID : [0000-0002-2055-8381](https://orcid.org/0000-0002-2055-8381)
+🦃 Stupid bird webpage : [@ryneches](https://twitter.com/ryneches)
+📸 Flickr : [https://www.flickr.com/photos/rneches/](https://www.flickr.com/photos/rneches/)
+⚗️  Laboratory : [京都大学化学研究所](https://cls.kuicr.kyoto-u.ac.jp/en_member/russell-young-neches/)
