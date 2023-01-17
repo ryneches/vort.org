@@ -33,7 +33,7 @@ calipers and tossed together some models of gel combs in
 [OpenSCAD](http://www.openscad.org/). A few minutes of printing later,
 and the $51 gel combs are heading back to the store.
 
-![Original and 3D printed gel combs](http://vort.org/media/images/gel_combs_ultimaker.jpg)
+![Original and 3D printed gel combs](assets/gel_combs_ultimaker.jpg)
 
 Here's the code for the six well 1.5mm by 9mm comb :
 

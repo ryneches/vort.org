@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+#from pelican_jupyter import markup as nb_markup
+from pelican_jupyter import liquid as nb_liquid # import pelican-jupyter
 
 AUTHOR = u'Russell Neches'
 SITENAME = u'Tortoise Dance Party'
@@ -10,14 +12,29 @@ PATH = 'content'
 STATIC_PATHS = [ 'assets' ]
 IGNORE_FILES = ['.ipynb_checkpoints']
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = u'en'
+
+# Elegant theme stuff
+LANDING_PAGE_TITLE = 'Reciprocal evolution of giant viruses and their hosts.'
+
+PROJECTS = [{
+    'name'        : 'SuchTree',
+    'url'         : 'https://github.com/ryneches/SuchTree',
+    'description' : 'A Python library for doing fast, thread-safe computations with phylogenetic trees.'},
+   {'name'        : '木槌 : kizuchi',
+    'url'         : 'https://github.com/ryneches/kizuchi',
+    'description' : 'A snakemake workflow for building gene trees from HMM profiles.'},
+   {'name'        : 'dissertation',
+    'url'         : 'https://ryneches.github.io/dissertation/#',
+    'description' : 'A graph-based index of Ph.D. dissertation.'}]
+
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -29,14 +46,28 @@ LINKS = (('ATOM feed', 'feeds/all.atom.xml'),)
 # markup
 MARKUP = ('md', 'ipynb')
 
+MARKDOWN = { 'extension_configs' : { 'markdown.extensions.toc' : {} } }
+
 # plugins
-PLUGIN_PATHS = [ './plugins' ]
-PLUGINS = [ 'render_math',
-            'ipynb.markup',
-            'i18n_subsites' ]
+PLUGIN_PATHS = [ '../pkg/pelican-plugins', 'plugins' ]
+#PLUGINS = [ 'render_math',
+#            'nb_markup',
+#            'i18n_subsites' ]
+
+PLUGINS = [ 'liquid_tags.img',
+            nb_liquid,
+            'representative_image',
+            'render_math',
+            'i18n_subsites',
+            'extract_toc' ]
+
+LIQUID_CONFIGS = (("IPYNB_FIX_CSS", "False", ""),
+                  ("IPYNB_SKIP_CSS", "False", ""),
+                  ("IPYNB_EXPORT_TEMPLATE", "base", ""),)
 
 # themes
-THEME = './themes/pelican-bootstrap3'
+#THEME = './themes/pelican-bootstrap3'
+THEME = './themes/elegant'
 
 # theme settings
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
@@ -61,7 +92,7 @@ EXTRA_PATH_METADATA = {
     'assets/js/custom.js': {'path': 'static/js/custom.js'}
 }
 
-DISQUS_SITENAME = 'vort-org'
+#DISQUS_SITENAME = 'vort-org'
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
@@ -105,6 +136,7 @@ MENUITEMS = (
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/ryneches'),
+          ('Mastodon', 'https://ecoevo.social/@ryneches', 'mastodon'),
           ('Twitter', 'https://twitter.com/ryneches'),)
 
 DEFAULT_PAGINATION = 10

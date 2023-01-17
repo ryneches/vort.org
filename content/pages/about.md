@@ -16,6 +16,7 @@ Building things and studying the universe is awesome. Everyone should be allowed
 
 ## Key facts
 
+* JSPS Fellow at the [Ogata Laboratory](https://cls.kuicr.kyoto-u.ac.jp/) at Kyoto University.
 * Postdoc at the Joint Genome Institute with [Nikos Kyrpides](https://en.wikipedia.org/wiki/Nikos_Kyrpides)
 * Ph.D. in Microbiology from UC Davis with [Jonathan Eisen](https://phylogenomics.me) in 2017
 * B.S. in Physics from Northeastern University in 2004
@@ -27,23 +28,39 @@ Building things and studying the universe is awesome. Everyone should be allowed
 
 ## Publications
 
-* **SuchTree : Fast, thread-safe computations with phylogenetic trees** Russell Y Neches and Camille Scott. _Journal of Open Source Software_, 2018
-* **OpenCTD: An oceanographic instrument for measuring conductivity, temperature, and depth.** Andrew Thaler, Ian Black, Russell Y Neches, and S. Kersey Sturdivant. _HardwareX_, 2018
-* **A microbial survey of the International Space Station (ISS).** Jenna M Lang, David A Coil, Russell Y Neches, Wendy E Brown, Darlene Cavalier, Mark Severance, Jarrad Hampton-Marcell, Jack A Gilbert, and Jonathan A Eisen. _PeerJ_, 2017
-* **khmer release v2.1: software for biological sequence analysis.** Daniel Standage, Ali yari, Lisa J. Cohen, Michael R. Crusoe, Tim Head, Luiz Irber, Shannon EK Joslin, N. B. Kingsley, Kevin D. Murray, Russell Neches, Camille Scott, Ryan Shean, Sascha Steinbiss, Cait Sydney, and C. Titus Brown. _The Journal of Open Source Software_, 2017
-* **On the intrinsic sterility of 3D printing.** Russell Y Neches, Kaitlin J Flynn, Luis Zaman, Emily Tung, and Nicholas Pudlo. _PeerJ_, 2016
-* **Growth of 48 built environment bacterial isolates on board the International Space Station (ISS).** David A Coil, Russell Y Neches, Jenna M Lang, Wendy E Brown, Mark Severance, Darlene Cavalier, and Jonathan A Eisen. _PeerJ_, 2016
-* **Evaluating genomic divergence and parallelism in replicate ecomorphs from young and old cichlid adaptive radiations.** Matthew D McGee, Russell Y Neches, and Ole Seehausen. _Molecular Ecology_, 2016
-* **Spatially extensive microbial biogeography of the Indian Ocean provides insights into the unique community structure of a pristine coral atoll.** Thomas C Jeffries, Martin Ostrowski, Rohan B Williams, Chao Xie, Rachelle M Jensen, Joseph J Grzymski, Svend Jacob Senstius, Michael Givskov, Ron Hoeke, Gayle K Philip, _et al_. _Scientific Reports_, 2015
-* **A pharyngeal jaw evolutionary innovation facilitated extinction in Lake Victoria cichlids.** Matthew D McGee, Samuel R Borstein, Russell Y Neches, Heinz H Buescher, Ole Seehausen, and Peter C Wainwright. _Science_, 2015
-* **The common oceanographer: crowdsourcing the collection of oceanographic data.** Federico M Lauro, Svend Jacob Senstius, Jay Cullen, Russell Y Neches, Rachelle M Jensen, Mark V Brown, Aaron E Darling, Michael Givskov, Diane McDougald, Ron Hoeke, _et al_. _PLOS Biology_, 2014
-* **A workflow for genome-wide mapping of archaeal transcription factors with ChIP-seq.** Elizabeth G Wilbanks, David J Larsen, Russell Y Neches, Andrew I Yao, Chia-Ying Wu, Rachel AS Kjolby, and Marc T Facciotti. _Nucleic Acids Research_, 2012
-* **Functional Biogeography of Ocean Microbes Revealed through Non-Negative Matrix Factorization.** Xingpeng Jiang, Morgan GI Langille, Russell Y Neches, Marie Elliot, Simon A Levin, Jonathan A Eisen, Joshua S Weitz, and Jonathan Dushoff. _PLOS ONE_, 2012
-* **The convergence of analytic high-β equilibrium in a finite aspect ratio tokamak.** Russell Y Neches, Steven C Cowley, Pierre-Alexandre Gourdain, and Jean-Noel Leboeuf. _Physics of Plasmas_, 2008
-* **Stability of highly shifted equilibria in a large aspect ratio low-field tokamak.** Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and Russell Y Neches. _Physics of Plasmas_, 2007
-* **High-resolution magnetohydrodynamic equilibrium code for unity beta plasmas.** Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and Russell Y Neches.  _Journal of Computational Physics_, 2006
-* **Stability of highly shifted equilibria in a large-aspect-ratio tokamak.** Pierre-Alexandre Gourdain, Steven C Cowley, Jean-Noel Leboeuf, and Russell Y Neches. _Physical review letters_, 2006
+See also [Scholar](https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en), [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2055-8381)
 
+### Refereed Journal Articles
+
+- [**21**](https://doi.org/10.1093/nar/gkac1037) : Antonio Pedro Camargo, Stephen Nayfach, I-Min A. Chen, Krishnaveni Palaniappan, Anna Ratner, Ken Chu, Stephan J. Ritter, T. B. K. Reddy, Supratim Mukherjee, Frederik Schulz, Lee Call, **Russell Y. Neches**, Tanja Woyke, Natalia N. Ivanova, Emiley A. Eloe-Fadrosh, Nikos C. Kyrpides, and Simon Roux. *IMG/VR v4: an expanded database of uncultivated virus genomes within a framework of extensive functional, taxonomic, and ecological metadata.* __*Nucleic Acids Research*__, 2022
+- [**20**](https://doi.org/10.1016/j.cell.2021.05.002) : David Danko and others including **Russell Y. Neches**. *A global metagenomic map of urban microbiomes and antimicrobial resistance*. __*Cell*__, May 2021  
+- [**19**](https://doi.org/10.1128/mBio.03014-20) : **Russell Y Neches**, Nikos C Kyrpides, and Christos A Ouzounis. *Atypical divergence of SARS-CoV-2 ORF8 from ORF7a within the coronavirus lineage suggests potential stealthy viral strategies in immune evasion.* __*Mbio*__, 2021
+- [**18**](https://doi.org/10.1093/nar/gkaa946) : Simon Roux, David PÃ¡ez-Espino, I-Min A Chen, Krishna Palaniappan, Anna Ratner, Ken Chu, T B K Reddy, Stephen Nayfach, Frederik Schulz, Lee Call, **Russell Y Neches**, Tanja Woyke, Natalia N Ivanova, Emiley A Eloe-Fadrosh, Nikos C Kyrpides. *IMG/VR v3: an integrated ecological and evolutionary framework for interrogating genomes of uncultivated viruses.* __*Nucleic Acids Research*__, 2021 
+- [**17**](https://doi.org/10.1038/s41579-020-00451-1) : **Russell Y. Neches**, Matthew D. McGee, and Nikos C. Kyrpides. Recombination should not be an afterthought. __*Nature Reviews Microbiology*__, 2020
+- [**16**](https://doi.org/10.7717/peerj.9235) : David A Coil, **Russell Y Neches**, Jenna M Lang, Guillaume Jospin, Wendy E Brown, Darlene Cavalier, Jarrad Hampton-Marcell, Jack A Gilbert, and Jonathan A Eisen. *Bacterial communities associated with cell phones and shoes.* __*PeerJ*__, 2020
+- [**15**](https://doi.org/10.21105/joss.00678) : **Russell Y Neches** and Camille Scott. *SuchTree: Fast, thread-safe computations with phylogenetic trees.* __*Journal Open Source Software*__, 2018  
+- [**14**](https://doi.org/10.7717/peerj.4029) : Jenna M Lang, David A Coil, **Russell Y Neches**, Wendy E Brown, Darlene Cavalier, Mark Severance, Jarrad Hampton-Marcell, Jack A Gilbert, and Jonathan A Eisen. *A microbial survey of the International Space Station (ISS).* __*PeerJ*__, 2017
+- [**13**](https://doi.org/10.21105/joss.00272) : Daniel Standage, Ali yari, Lisa J. Cohen, Michael R. Crusoe, Tim Head, Luiz Irber, Shannon EK Joslin, N. B. Kingsley, Kevin D. Murray, **Russell Neches**, Camille Scott, Ryan Shean, Sascha Steinbiss, Cait Sydney, and C. Titus Brown. *khmer release v2.1: software for biological sequence analysis.* __*The Journal of Open Source Software*__, 2017
+- [**12**](https://doi.org/10.7717/peerj.2661) : **Russell Y Neches**, Kaitlin J Flynn, Luis Zaman, Emily Tung, and Nicholas Pudlo. *On the intrinsic sterility of 3D printing.* __*PeerJ*__, 2016
+- [**11**](https://doi.org/10.7717/peerj.1842) : David A Coil, **Russell Y Neches**, Jenna M Lang, Wendy E Brown, Mark Severance, Darlene Cavalier, and Jonathan A Eisen. *Growth of 48 built environment bacterial isolates on board the International Space Station (ISS).* __*PeerJ*__, 2016
+- [**10**](https://doi.org/10.1111/mec.13463) : Matthew D McGee, **Russell Y Neches**, and Ole Seehausen. *Evaluating genomic divergence and parallelism in replicate ecomorphs from young and old cichlid adaptive radiations.* __*Molecular Ecology*__, 2016
+- [**9**](https://doi.org/10.1038/srep15383) : Thomas C. Jeffries, Martin Ostrowski, Rohan B. Williams, Chao Xie, Rachelle M. Jensen, Joseph J. Grzymski, Svend Jacob Senstius, Michael Givskov, Ron Hoeke, Gayle K. Philip, **Russell Y. Neches**, Daniela I. Drautz-Moses, Caroline ChÃ©nard, Ian T. Paulsen and Federico M. Lauro. *Spatially extensive microbial biogeography of the Indian Ocean provides insights into the unique community structure of a pristine coral atoll.* __*Scientific Reports*__, 2015
+- [**8**](https://doi.org/10.1126/science.aab0800) : Matthew D McGee, Samuel R Borstein, **Russell Y Neches**, Heinz H Buescher, Ole Seehausen, and Peter C Wainwright. *A pharyngeal jaw evolutionary innovation facilitated extinction in Lake Victoria cichlids.* __*Science*__, 2015
+- [**7**](https://doi.org/10.1371/journal.pbio.1047) : Federico M Lauro, Svend Jacob Senstius, Jay Cullen, **Russell Y Neches**, Rachelle M Jensen, Mark V Brown, Aaron E Darling, Michael Givskov, Diane McDougald, Ron Hoeke, et al. *The common oceanographer: crowdsourcing the collection of oceanographic data.* __*PLOS Biology*__, 2014
+- [**6**](https://doi.org/10.1093/nar/gks063) : Elizabeth G Wilbanks, David J Larsen, **Russell Y Neches**, Andrew I Yao, Chia-Ying Wu, Rachel AS Kjolby, and Marc T Facciotti. *A workflow for genome-wide mapping of archaeal transcription factors with ChIP-seq.* __*Nucleic Acids Research*__, 2012
+- [**5**](https://doi.org/10.1371/journal.pone.0043866) : Xingpeng Jiang, Morgan GI Langille, **Russell Y Neches**, Marie Elliot, Simon A Levin,Jonathan A Eisen, Joshua S Weitz, and Jonathan Dushoff. *Functional Biogeography of Ocean Microbes Revealed through Non-Negative Matrix Factorization.* __*PLOS ONE*__, 2012
+- [**4**](https://doi.org/10.1063/1.3008049) : **Russell Y Neches**, Steven C Cowley, Pierre-Alexandre Gourdain, and Jean-Noel Leboeuf. *The convergence of analytic high-Î² equilibrium in a finite aspect ratio tokamak.* __*Physics of Plasmas*__, 2008
+- [**3**](https://doi.org/10.1063/1.2807024) : Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and **Russell Y Neches**. *Stability of highly shifted equilibria in a large aspect ratio low-field tokamak.* __*Physics of  Plasmas*__, 2007
+- [**2**](https://doi.org/10.1016/j.jcp.2005.12.005) : Pierre-Alexandre Gourdain, Jean-Noel Leboeuf, and **Russell Y Neches**. *High-resolution magnetohydrodynamic equilibrium code for unity beta plasmas.* __*Journal of Computational Physics*__, 2006
+- [**1**](https://doi.org/10.1103/PhysRevLett.97.055003) : Pierre-Alexandre Gourdain, Steven C Cowley, Jean-Noel Leboeuf, and **Russell Y Neches**. *Stability of highly shifted equilibria in a large-aspect-ratio tokamak.* __*Physical review letters*__, 2006
+  
+### Preprints
+
+- [**5**](https://doi.org/10.31230/osf.io/8evsq) : Andrew Thaler, S Kersey Sturdivant, **Russell Neches**, and Ian Black. *OpenCTD: Construction and operation.* __*MarXiv*__, 2020
+- [**4**](https://doi.org/10.1101/724526) : David Danko and others including **Russell Y Neches**. *Global genetic cartography of urban metagenomes and antimicrobial resistance.* __*BioRxiv*__, 2019
+- [**3**](https://doi.org/10.7717/peerj.9235) : David A Coil, **Russell Y Neches**, Jenna M Lang, Guillaume Jospin, Wendy E Brown, Darlene Cavalier, Jarrad Hampton-Marcell, Jack A Gilbert, and Jonathan A Eisen. *Bacterial communities associated with cell phones and shoes.* __*PeerJ Preprints*__, 2019
+- [**2**](https://doi.org/10.7287/peerj.preprints.290v2) : **Russell Y Neches**, Marc T Facciotti, Phillip M Seitzer, and Elizabeth G Wilbanks. *In a fit of pique: Analyzing microbial ChIP-Seq data with Pique.* __*PeerJ Preprints*__, 2014
+- [**1**](https://doi.org/10.7287/peerj.preprints.542v2) : **Russell Y Neches**, Kaitlin J Flynn, Luis Zaman, Emily Tung, and Nicholas Pudlo. *On the intrinsic sterility of 3D printing.* __*PeerJ Preprints*__, 2014
 ## Code of Conduct for Vort.org
 
 Vort.org is where I share things that I think are interesting or important. I have comments enabled because I want people to participate. However, I'm not interested in hosting a free-for-all.
