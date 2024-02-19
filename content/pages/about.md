@@ -16,6 +16,7 @@ Building things and studying the universe is awesome. Everyone should be allowed
 
 ## Key facts
 
+* Assistant Professor, [Institute for Chemical Research](https://www.kuicr.kyoto-u.ac.jp/sites/icr/) at Kyoto University, in the Ogata lab.
 * JSPS Fellow at the [Ogata Laboratory](https://cls.kuicr.kyoto-u.ac.jp/) at Kyoto University.
 * Postdoc at the Joint Genome Institute with [Nikos Kyrpides](https://en.wikipedia.org/wiki/Nikos_Kyrpides)
 * Ph.D. in Microbiology from UC Davis with [Jonathan Eisen](https://phylogenomics.me) in 2017
@@ -32,6 +33,7 @@ See also [Scholar](https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en)
 
 ### Refereed Journal Articles
 
+- [**22**](https://doi.org/10.1038/s41467-023-41910-6) : Lingjie Meng, Tom O. Delmont, Morgan Gaïa, Eric Pelletier, Antonio Fernàndez-Guerra, Samuel Chaffron, Russell Y. Neches, Junyi Wu, Hiroto Kaneko, Hisashi Endo, and Hiroyuki Ogata. *Genomic adaptation of giant viruses in polar oceans*, __*Nature Communications*__, 2023.
 - [**21**](https://doi.org/10.1093/nar/gkac1037) : Antonio Pedro Camargo, Stephen Nayfach, I-Min A. Chen, Krishnaveni Palaniappan, Anna Ratner, Ken Chu, Stephan J. Ritter, T. B. K. Reddy, Supratim Mukherjee, Frederik Schulz, Lee Call, **Russell Y. Neches**, Tanja Woyke, Natalia N. Ivanova, Emiley A. Eloe-Fadrosh, Nikos C. Kyrpides, and Simon Roux. *IMG/VR v4: an expanded database of uncultivated virus genomes within a framework of extensive functional, taxonomic, and ecological metadata.* __*Nucleic Acids Research*__, 2022
 - [**20**](https://doi.org/10.1016/j.cell.2021.05.002) : David Danko and others including **Russell Y. Neches**. *A global metagenomic map of urban microbiomes and antimicrobial resistance*. __*Cell*__, May 2021  
 - [**19**](https://doi.org/10.1128/mBio.03014-20) : **Russell Y Neches**, Nikos C Kyrpides, and Christos A Ouzounis. *Atypical divergence of SARS-CoV-2 ORF8 from ORF7a within the coronavirus lineage suggests potential stealthy viral strategies in immune evasion.* __*Mbio*__, 2021

@@ -18,8 +18,8 @@ a data scientist who uses Python to explore biological systems. Or, I'm
 a physicist that went rouge and defected to the squishy side of science. Take
 your pick.
 
-I am a JSPS fellow at [Kyoto University](https://www.kyoto-u.ac.jp/) [Institue
-of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) in the [Ogata
+I am an assistant professor at [Kyoto University](https://www.kyoto-u.ac.jp/)
+[Institue of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) in the [Ogata
 Laboratory](https://cls.kuicr.kyoto-u.ac.jp/en/).
 
 ### Other places you can find me
