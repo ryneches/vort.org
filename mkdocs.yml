@@ -1,0 +1,114 @@
+site_name: "Russell's blog"
+site_url: https://vort.org
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects:
+    - Mini Workbench: mini_workbench.md
+  - Blog:
+    - blog/index.md
+  - Tags: tags.md
+
+theme:
+  name: material
+  logo: assets/icon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.expand
+    - navigation.footer
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: vort
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+# Exclude raw notebooks and Jupyter checkpoint directories from the build
+exclude_docs: |
+  blog/posts/*.ipynb
+  **/.ipynb_checkpoints/
+
+hooks:
+  - hooks.py
+
+plugins:
+  - search
+  - social
+  - tags:
+      tags_file: tags.md
+  - blog:
+      blog_dir: blog
+      authors: true
+      authors_file: authors.yml
+      archive_date_format: MMMM yyyy
+      post_excerpt: optional
+      post_excerpt_separator: <!-- more -->
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://ecoevo.social/@ryneches
+      name: "@ryneches@ecoevo.social"
+    - icon: fontawesome/brands/bluesky
+      link: https://ryneches.bsky.social
+      name: "@ryneches.bsky.social"
+    - icon: simple/orcid
+      link: https://orcid.org/0000-0002-2055-8381
+      name: ORCID 0000-0002-2055-8381
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en
+      name: Google Scholar
+    - icon: fontawesome/brands/flickr
+      link: https://www.flickr.com/photos/rneches/
+      name: Flickr
+    - icon: material/flask
+      link: https://cls.kuicr.kyoto-u.ac.jp/en_member/russell-young-neches/
+      name: Kyoto University CRI
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

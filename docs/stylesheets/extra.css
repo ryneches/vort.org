@@ -1,0 +1,343 @@
+/* ── Theme palette ───────────────────────────────────────────────────────── */
+
+[data-md-color-scheme="vort"] {
+  --md-primary-fg-color:        #103b42;
+  --md-primary-fg-color--light: #C78B42;
+  --md-primary-fg-color--dark:  #1C4A1D;
+  --md-accent-fg-color:         #C78B42;
+  --md-typeset-a-color:         #0e7a96;
+}
+
+[data-md-color-scheme="vort"] .md-typeset a:hover { color: #a86800; }
+
+/* Dark mode: Sanzo Wada palette anchored on #103b42 (deep-sea teal).
+   Pigment analogues: verdigris (teal), celadon (sage), raw umber (amber),
+   burnt sienna (terracotta), rose ash — nothing blue. */
+[data-md-color-scheme="slate"][data-md-color-primary],
+[data-md-color-scheme="slate"] {
+  /* Shift Material's generated palette: blue hue 232 → teal hue 188.
+     Backgrounds, surfaces, borders, and shadows all derive from this. */
+  --md-hue: 188;
+
+  /* Header bar: same dark teal as light mode */
+  --md-primary-fg-color:              #103b42;
+  --md-primary-fg-color--light:       #1e5c66;
+  --md-primary-fg-color--dark:        #0a2428;
+  --md-primary-bg-color:              rgba(255, 255, 255, 0.87);
+  --md-primary-bg-color--light:       rgba(255, 255, 255, 0.54);
+
+  /* Warm amber accent (Wada: cool dark paired with warm highlight) */
+  --md-accent-fg-color:               #C78B42;
+  --md-accent-fg-color--transparent:  rgba(199, 139, 66, 0.1);
+
+  /* Links: sea glass — teal family, shifts to amber on hover.
+     Must use [scheme][primary] double-attribute selector (0,2,0) to beat
+     Material's [data-md-color-scheme=slate][data-md-color-primary=indigo]
+     rule of the same specificity; cascade order (extra.css last) wins. */
+  --md-typeset-a-color:               #C78B42;
+
+  /* Text highlight / search selection: teal instead of blue */
+  --md-typeset-mark-color:            rgba(199, 139, 66, 0.35);
+  --md-code-hl-color:                 rgba(16, 59, 66, 0.5);
+  --md-code-hl-color--light:          rgba(16, 59, 66, 0.15);
+
+  /* Syntax token colours — Wada pigment analogues */
+  --md-code-hl-keyword-color:         #5bb3bf;  /* verdigris   */
+  --md-code-hl-function-color:        #b8a860;  /* raw brass   */
+  --md-code-hl-string-color:          #73b896;  /* celadon     */
+  --md-code-hl-number-color:          #d9856a;  /* burnt sienna */
+  --md-code-hl-constant-color:        #c9965a;  /* raw umber   */
+  --md-code-hl-special-color:         #b87878;  /* rose ash    */
+}
+
+[data-md-color-scheme="slate"][data-md-color-primary] .md-typeset a:hover,
+[data-md-color-scheme="slate"] .md-typeset a:hover { color: var(--eugeina-red-dark); }
+
+/* ── Notebook figure images ──────────────────────────────────────────────── */
+
+.md-typeset img.nb-fig {
+  display: block;
+  margin: 1.75rem auto;
+  max-width: 80%;
+  background: #ffffff;
+  padding: 1.25rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+[data-md-color-scheme="slate"] .md-typeset img.nb-fig {
+  box-shadow:
+    0 1px 3px  rgba(0, 0, 0, 0.40),
+    0 6px 24px rgba(0, 0, 0, 0.50);
+}
+
+/* ── Notebook photograph images ─────────────────────────────────────────── */
+
+.md-typeset img.nb-photo {
+  display: block;
+  margin: 1.75rem auto;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+[data-md-color-scheme="slate"] .md-typeset img.nb-photo {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+/* ── Code blocks ─────────────────────────────────────────────────────────── */
+
+.highlight pre {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+/* ── Inline code ─────────────────────────────────────────────────────────── */
+
+code:not(.highlight code) {
+  background-color: rgba(16, 59, 66, 0.08);
+  padding: 0.05rem 0.25rem;
+  border-radius: 0.3rem;
+  font-size: 0.9em;
+}
+
+[data-md-color-scheme="slate"] code:not(.highlight code) {
+  background-color: rgba(16, 59, 66, 0.25);
+}
+
+/* ── Admonitions ─────────────────────────────────────────────────────────── */
+
+.admonition {
+  border-radius: 0.5rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.05);
+}
+
+/* ── Recent Posts admonition — Eugeina Red (Wada p.161) ──────────────────── */
+
+:root {
+  --eugeina-red:       #8B2E38;
+  --eugeina-red-dark:  #B04050;
+  --md-admonition-icon--recent-posts: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z'/></svg>");
+}
+
+.md-typeset .admonition.recent-posts,
+.md-typeset details.recent-posts {
+  border-color: #103b42;
+}
+
+.md-typeset .recent-posts > .admonition-title,
+.md-typeset .recent-posts > summary {
+  background-color: rgba(16, 59, 66, 0.08);
+}
+
+.md-typeset .recent-posts > .admonition-title::before,
+.md-typeset .recent-posts > summary::before {
+  background-color: #103b42;
+  -webkit-mask-image: var(--md-admonition-icon--recent-posts);
+          mask-image: var(--md-admonition-icon--recent-posts);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.recent-posts,
+[data-md-color-scheme="slate"] .md-typeset details.recent-posts {
+  border-color: #1e5c66;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .recent-posts > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .recent-posts > summary {
+  background-color: rgba(30, 92, 102, 0.2);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .recent-posts > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .recent-posts > summary::before {
+  background-color: #1e5c66;
+}
+
+/* ── Navigation ──────────────────────────────────────────────────────────── */
+
+.md-nav__link {
+  transition: padding-left 0.2s ease;
+}
+
+.md-nav__link:hover {
+  padding-left: 1rem;
+}
+
+/* ── Tables ──────────────────────────────────────────────────────────────── */
+
+/* Centre the inline-block .md-typeset__table within its scroll wrapper */
+.md-typeset .md-typeset__scrollwrap {
+  text-align: center;
+}
+
+table:not(.dataframe) {
+  width: auto;
+  text-align: left;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden !important;
+  border: 1px solid rgba(0, 0, 0, 0.12) !important;
+  border-radius: 6px !important;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+  margin: 1.5rem auto;
+  font-size: 0.8rem;
+  background: var(--md-default-bg-color);
+}
+
+table:not(.dataframe) thead {
+  background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  color: white;
+}
+
+table:not(.dataframe) thead th {
+  padding: 0.5rem 0.6rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.8rem;
+  border: none;
+  white-space: nowrap;
+}
+
+table:not(.dataframe) tbody tr {
+  transition: background-color 0.15s ease;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+table:not(.dataframe) tbody tr:hover {
+  background-color: rgba(16, 59, 66, 0.05);
+}
+
+table:not(.dataframe) tbody tr:last-child {
+  border-bottom: none;
+}
+
+table:not(.dataframe) tbody td,
+table:not(.dataframe) tbody th {
+  padding: 0.4rem 0.6rem;
+  border: none;
+  line-height: 1.3;
+}
+
+table:not(.dataframe) tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.015);
+}
+
+[data-md-color-scheme="slate"] table:not(.dataframe) {
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  background: var(--md-code-bg-color);
+}
+
+[data-md-color-scheme="slate"] table:not(.dataframe) tbody tr:hover {
+  background-color: rgba(16, 59, 66, 0.2);
+}
+
+[data-md-color-scheme="slate"] table:not(.dataframe) tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.015);
+}
+
+/* ── DataFrame (pandas / polars output) ──────────────────────────────────── */
+
+.dataframe {
+  width: auto !important;
+  border-collapse: separate !important;
+  border-spacing: 0;
+  overflow: hidden !important;
+  border: 1px solid rgba(0, 0, 0, 0.12) !important;
+  border-radius: 6px !important;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+  margin: 0;
+  font-size: 0.8rem;
+  background: var(--md-default-bg-color);
+}
+
+.dataframe thead {
+  background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  color: white;
+}
+
+.dataframe thead th {
+  padding: 0.5rem 0.6rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.8rem;
+  border: none;
+  white-space: nowrap;
+}
+
+.dataframe tbody tr {
+  transition: background-color 0.15s ease;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.dataframe tbody tr:hover {
+  background-color: rgba(16, 59, 66, 0.05);
+}
+
+.dataframe tbody tr:last-child {
+  border-bottom: none;
+}
+
+.dataframe tbody td {
+  padding: 0.4rem 0.6rem;
+  border: none;
+  line-height: 1.3;
+}
+
+.dataframe tbody th {
+  background-color: rgba(16, 59, 66, 0.06);
+  font-weight: 500;
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+  border: none;
+  font-size: 0.8rem;
+}
+
+.dataframe tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.015);
+}
+
+.dataframe tbody td:not(:first-child) {
+  text-align: right;
+}
+
+.dataframe tbody td[class*="object"],
+.dataframe tbody td[class*="string"] {
+  text-align: left;
+}
+
+[data-md-color-scheme="slate"] .dataframe {
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  background: var(--md-code-bg-color);
+}
+
+[data-md-color-scheme="slate"] .dataframe tbody tr:hover {
+  background-color: rgba(16, 59, 66, 0.2);
+}
+
+[data-md-color-scheme="slate"] .dataframe tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.015);
+}
+
+[data-md-color-scheme="slate"] .dataframe tbody th {
+  background-color: rgba(16, 59, 66, 0.2);
+}
+
+.dataframe-wrapper {
+  overflow-x: auto;
+  width: fit-content;
+  max-width: 100%;
+  margin: 1.5rem auto;
+}
+
+@media screen and (max-width: 768px) {
+  .dataframe {
+    font-size: 0.7rem;
+  }
+
+  .dataframe thead th,
+  .dataframe tbody td,
+  .dataframe tbody th {
+    padding: 0.35rem 0.5rem;
+  }
+}
