@@ -22,7 +22,7 @@ as it is often called in the hobby context). The appearance of power
 tools in the late 19th and early 20th century marks the transition of the
 carpentry trade into an industry.
 
-![Bench & plane](assets/bench_plane.jpg)
+![Bench & plane](assets/bench_plane.jpg){ .nb-photo }
 
 While a trade can be practiced as a hobby, it is difficult to justify
 practicing an *industry* as a hobby. The problems that heavy machines were
@@ -43,7 +43,7 @@ to do. I just want to make stuff. I'm happy to borrow tools, techniques and
 concepts from any culture or point in history, as long as it is fun and it fits
 in the space and time that I have.
 
-![Bench groove cutting](assets/groove_cutting.jpg)
+![Bench groove cutting](assets/groove_cutting.jpg){ .nb-photo }
 
 I've built this little Roman-style workbench to fit in the corner of my
 bedroom.  This is my first design, my first workbench build, and my first time
@@ -53,7 +53,7 @@ which is to give me some basic work-holding features. I will probably make a new
 bench soon, but I thought it would be a good idea to document this build as I add
 features to it.
 
-![Bench leg joint](assets/bench_joint.jpg)
+![Bench leg joint](assets/bench_joint.jpg){ .nb-photo }
 
 The bench is built from four 150mm by 15mm boards laminated into the top surface,
 and four 180mm legs. I'm not sure what the leg joints should be called, exactly.
