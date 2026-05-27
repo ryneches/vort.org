@@ -5,9 +5,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - Mini Workbench: mini_workbench.md
+      - Mini Workbench: mini_workbench.md
   - Blog:
-    - blog/index.md
+      - blog/index.md
   - Tags: tags.md
 
 theme:
@@ -28,7 +28,6 @@ theme:
     - search.highlight
     - toc.follow
   palette:
-
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -82,8 +81,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.details
   - pymdownx.highlight
+  - pymdownx.mark
   - pymdownx.superfences
+  - pymdownx.tilde
 
 extra:
   social:
