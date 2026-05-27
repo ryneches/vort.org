@@ -21,8 +21,8 @@ a physicist that went rouge and defected to the squishy side of science. Take
 your pick.
 
 I am an assistant professor at [Kyoto University](https://www.kyoto-u.ac.jp/)
-[Institue of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) in the [Ogata
-Laboratory](https://cls.kuicr.kyoto-u.ac.jp/en/).
+[Institue of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) working with
+[Motomu Matsui](https://sites.google.com/site/motomumatsui/)'s group.
 
 <!-- RECENT_POSTS -->
 
@@ -35,4 +35,5 @@ Laboratory](https://cls.kuicr.kyoto-u.ac.jp/en/).
 ✒️  ORCID : [0000-0002-2055-8381](https://orcid.org/0000-0002-2055-8381)</br>
 🦋 Bluesky : [@ryneches.bsky.social](https://ryneches.bsky.social)</br>
 📸 Flickr : [https://www.flickr.com/photos/rneches/](https://www.flickr.com/photos/rneches/)</br>
-⚗️  Laboratory : [京都大学化学研究所](https://cls.kuicr.kyoto-u.ac.jp/en_member/russell-young-neches/)</br>
+⚗️  Laboratory : [京都府宇治市五ヶ庄 京都大学 化学研究所 バイオインフォマティクスセンター](https://www.bic.kyoto-u.ac.jp/)</br>
+
