@@ -2,12 +2,14 @@
 authors:
 - ryneches
 date: 2026-05-28
-description: I accidentally wrote a fitness tracker in Obsidian. I'm not sure if it's
-  actually any good, but it works for me.
+description: I accidentally wrote a fitness tracker for Obsidian. It's not a plugin
+  or anything, just some Templater and DataviewJS code and a single hub note to act
+  as a dashboard. It grew organically over a couple of years, and decided to clean
+  it up and share it.
 tags:
 - life
-- obsidian
 - fitness
+- obsidian
 - code
 title: A fitness tracker for Obsidian
 ---
@@ -25,6 +27,8 @@ So, this is a workout tracking system for built around a single hub note. I desi
 - When I make charts and stats, I want them to update automatically when I finish a workout.
 
 So, it my tracker works like this : Press a button to create a workout note pre-filled from your current targets, check off exercises as you go, press a button to finish. The scripts create new workouts based on whatever is in the workout table and writes structured frontmatter into each workout note automatically so the history is queryable with Dataview and Charts.
+
+You can get code from the [Github repo](https://github.com/ryneches/obsidian_fitness_tracker).
 
 It's automated enough to make routine days easy, but flexible enough not to make struggle days worse.
 
@@ -67,6 +71,8 @@ No special settings required. The system uses `[x]` / `[-]` checkbox states and 
 No special settings required beyond installation.
 
 ## Installation
+
+Fetch the code from the [Github repo](https://github.com/ryneches/obsidian_fitness_tracker). You can clone it directly into your vault directory, and it should just work.
 
 1. Copy the following into your vault, preserving the folder structure :
 
