@@ -22,7 +22,7 @@ your pick.
 
 I am an assistant professor at [Kyoto University](https://www.kyoto-u.ac.jp/)
 [Institue of Chemical Research](https://www.kuicr.kyoto-u.ac.jp/) working with
-[Motomu Matsui](https://sites.google.com/site/motomumatsui/)'s group.
+[Motomu Matsui's](https://sites.google.com/site/motomumatsui/) group.
 
 <!-- RECENT_POSTS -->
 
