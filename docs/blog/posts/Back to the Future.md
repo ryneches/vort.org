@@ -31,6 +31,7 @@ So, why? Well, it comes down to being able to say what I want to say. I suppose 
 $$
 \frac{dP}{dt} = rP
 $$
+
 without having to suffer through some barbaric ritual of clicking little icons in a toolbar somewhere? If I want to explain to you how a piece of code works, can I just show it to you?
 
 ```python
